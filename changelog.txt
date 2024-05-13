@@ -1,0 +1,21 @@
+=== 1.1.1 (10 May 2024) ===
+
+Contrast Curve Filter can now make adjustments on both a global and per-channel basis.
+
+=== 1.1.0 (30 Apr 2024) ===
+
+Added the Chromatic Aberration Filter.
+Added the Contrast Curve Filter.
+Added RGB Mode to the Targeted Spherical Transform Filter.
+Added menu option to convert greyscale images to RGB.
+
+=== 1.0.1 (29 Apr 2024) ===
+
+Removed Hands On Film Summer 200 Preset and LUT due to issues with the LUT.
+Added Undo All option.
+Custom Angle Rotate now accepts values from -360 to 360 degrees.
+Added Clear Redo Buffer option.
+
+=== 1.0.0 (24 Apr 2024) ===
+
+Initial Release.
