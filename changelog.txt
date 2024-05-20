@@ -1,3 +1,10 @@
+=== 1.1.2 (21 May 2024) ===
+
+Fixed inconsistent results when running Contrast Curve from preset.
+Fixed potential NaN error when running Contrast Curve.
+Changed 'threshold' range for Halation 1.
+New and revised example LUTs and presets.
+
 === 1.1.1 (10 May 2024) ===
 
 Contrast Curve Filter can now make adjustments on both a global and per-channel basis.
